@@ -5,7 +5,7 @@ When user enters project title then it will be displayed as the title of the REA
 
 # Images
 
-![Final output] (./images/final.png)
+![Final output](./images/final.png)
 
 # Links
 Git hub: https://github.com/karimkapadia/ReadMe-Generator-homework-9
